@@ -1,0 +1,17 @@
+{
+  "name": "mybookmarklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mybookmarkList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^2.22.2",
+    "faunadb": "^4.1.3",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.11.0"
+  }
+}
