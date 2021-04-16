@@ -41,5 +41,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/mohmmad-owais/bookmark-app.git"
 }
